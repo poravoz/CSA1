@@ -1,16 +1,17 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Runtime.CompilerServices;
 
 public class DisplayMenu
 {
+	public string? choice;
+
 	public void menu()
 	{
 		Console.WriteLine("Choose 1 or 2");
 		Console.WriteLine("if you pick 1 this is reading a Lorem file");
 		Console.WriteLine("if you pick 2 this is a calculate two sum ");
-		string? choice;
-
+		
 		do
 		{
 			Console.Write("Enter the number: ");
@@ -39,12 +40,14 @@ public class DisplayMenu
 
 public class ReadFile
 {
+	public int number;
+
 	public void readFile()
 	{
 		Console.Write("Enter the number: ");
 		try
 		{
-			int number = Convert.ToInt32(Console.ReadLine());
+			number = Convert.ToInt32(Console.ReadLine());
 
 			StreamReader streamReader = new StreamReader("C:\\Users\\Жанна\\Documents\\GitHub\\OTHER\\CSA1\\Lr1\\loremIpsum.txt");
 			string fileContent = streamReader.ReadToEnd();
@@ -78,6 +81,7 @@ public class ReadFile
 
 public class Calculate
 {
+	int result = 0;
 	public int Sum()
 	{
 		Console.Write("Enter value1: ");
@@ -86,7 +90,6 @@ public class Calculate
 		Console.Write("Enter value2: ");
 		int value2 = Convert.ToInt32(Console.ReadLine());
 
-		int result = 0;
 		return result = value1 + value2;
 	}
 }
@@ -101,7 +104,6 @@ namespace Lr1
 		{
 			DisplayMenu displayMenu = new DisplayMenu();
 			displayMenu.menu();
-			Console.ReadLine();
 		}
 	}
 }
