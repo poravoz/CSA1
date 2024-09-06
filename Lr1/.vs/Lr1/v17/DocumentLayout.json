@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0416\u0430\u043D\u043D\u0430\\Documents\\GitHub\\OTHER\\Lr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3344836F-1107-473D-9A33-816FFEB5F20A}|Lr1\\Lr1.csproj|c:\\users\\\u0436\u0430\u043D\u043D\u0430\\documents\\github\\other\\lr1\\lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3344836F-1107-473D-9A33-816FFEB5F20A}|Lr1\\Lr1.csproj|solutionrelative:lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0416\u0430\u043D\u043D\u0430\\Documents\\GitHub\\OTHER\\Lr1\\Lr1\\Program.cs",
+              "RelativeDocumentMoniker": "Lr1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0416\u0430\u043D\u043D\u0430\\Documents\\GitHub\\OTHER\\Lr1\\Lr1\\Program.cs",
+              "RelativeToolTip": "Lr1\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAUwGkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:34:36.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
