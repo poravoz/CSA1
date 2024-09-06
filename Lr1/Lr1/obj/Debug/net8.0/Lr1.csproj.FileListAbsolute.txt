@@ -1,0 +1,15 @@
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\bin\Debug\net8.0\Lr1.exe
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\bin\Debug\net8.0\Lr1.deps.json
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\bin\Debug\net8.0\Lr1.runtimeconfig.json
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\bin\Debug\net8.0\Lr1.dll
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\bin\Debug\net8.0\Lr1.pdb
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.AssemblyInfoInputs.cache
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.AssemblyInfo.cs
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.csproj.CoreCompileInputs.cache
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.sourcelink.json
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.dll
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\refint\Lr1.dll
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.pdb
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\Lr1.genruntimeconfig.cache
+C:\Users\Жанна\Documents\GitHub\OTHER\CSA1\Lr1\Lr1\obj\Debug\net8.0\ref\Lr1.dll

@@ -46,7 +46,7 @@ public class ReadFile
 		{
 			int number = Convert.ToInt32(Console.ReadLine());
 
-			StreamReader streamReader = new StreamReader("C:\\Users\\Жанна\\Documents\\GitHub\\OTHER\\Lr1\\loremIpsum.txt");
+			StreamReader streamReader = new StreamReader("C:\\Users\\Жанна\\Documents\\GitHub\\OTHER\\CSA1\\Lr1\\loremIpsum.txt");
 			string fileContent = streamReader.ReadToEnd();
 			fileContent.Split(" ");
 
@@ -101,6 +101,7 @@ namespace Lr1
 		{
 			DisplayMenu displayMenu = new DisplayMenu();
 			displayMenu.menu();
+			Console.ReadLine();
 		}
 	}
 }
