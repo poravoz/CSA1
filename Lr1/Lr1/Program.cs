@@ -49,7 +49,7 @@ public class ReadFile
 		{
 			number = Convert.ToInt32(Console.ReadLine());
 
-			StreamReader streamReader = new StreamReader("C:\\Users\\Жанна\\Documents\\GitHub\\OTHER\\CSA1\\Lr1\\loremIpsum.txt");
+			StreamReader streamReader = new StreamReader("C:\\loremIpsum.txt");
 			string fileContent = streamReader.ReadToEnd();
 			fileContent.Split(" ");
 
